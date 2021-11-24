@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto&display=swap");
+
+
+.big-image {
+  height: 100vh;
+  width: 100vw;
+  position: relative;
+  background-size: cover;
+  background-position: 50% 50%;
+  background-image: url("../../images/Uber-Eats-promo-codes-for-existing-users-780x325.jpg");
+}
